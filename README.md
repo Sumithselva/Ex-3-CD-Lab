@@ -92,7 +92,8 @@ int main() {
 
 # OUTPUT
 
-<img width="1575" height="831" alt="image" src="https://github.com/user-attachments/assets/fbea6b71-4f35-4e2f-adc1-4ca976692592" />
+<img width="1919" height="915" alt="image" src="https://github.com/user-attachments/assets/d13026e3-493b-4328-9fdc-9a3d4c003641" />
+
 
 
 # RESULT
