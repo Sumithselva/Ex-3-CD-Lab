@@ -4,6 +4,8 @@
 
 ## Reg No : 212224230279
 
+## Date: 12/05/2026
+
 # AIM
 To write a yacc program to recognize a valid arithmetic expression that uses operator +,- ,* and /.
 # ALGORITHM
